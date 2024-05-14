@@ -40,7 +40,7 @@ export default function Dashboard() {
               <Grid item xs={8}>
                 <Stack spacing={2} direction="row">
                   <Card sx={{ maxWidth: 345 }}>
-                    <img src="src/Chicken1.png" alt="Chicken" style={{ width: '100%' }} />
+                    <img src="/images/Chicken1.png" alt="Chicken" style={{ width: '100%' }} />
                     <CardContent>
                       <Typography gutterBottom variant="h5" component="div">
                         Chicken
@@ -56,7 +56,7 @@ export default function Dashboard() {
                     </CardContent>
                   </Card>
                   <Card sx={{ maxWidth: 350 }}>
-                    <img src="src/Cow1.png" alt="Cow" style={{ width: '100%' }} />
+                    <img src="/images/Cow1.png" alt="Cow" style={{ width: '100%' }} />
                     <CardContent>
                       <Typography gutterBottom variant="h5" component="div">
                         Cow
@@ -71,7 +71,7 @@ export default function Dashboard() {
                     </CardContent>
                   </Card>
                   <Card sx={{ maxWidth: 345 }}>
-                    <img src="src/Duck2.png" alt="Duck" style={{ width: '100%' }} />
+                    <img src="/images/Duck2.png" alt="Duck" style={{ width: '100%' }} />
                     <CardContent>
                       <Typography gutterBottom variant="h5" component="div">
                         Duck
@@ -86,7 +86,7 @@ export default function Dashboard() {
                     </CardContent>
                   </Card>
                   <Card sx={{ maxWidth: 345 }}>
-                    <img src="src/Goat1.png" alt="Goat" style={{ width: '100%' }} />
+                    <img src="/images/Goat1.png" alt="Goat" style={{ width: '100%' }} />
                     <CardContent>
                       <Typography gutterBottom variant="h5" component="div">
                         Goat
